@@ -1,4 +1,4 @@
-# docker-utility
+# Docker-utility
 docker-gc = The docker-gc utility helps clean up your Docker host by removing containers and images that are not required. It removes all the containers that existed more than an hour ago. Also, it removes images that don’t belong to any remaining containers.
 
 You can use docker-gc both as a script and container.
